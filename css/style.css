@@ -302,7 +302,8 @@ h1, h2, h3 {
 
 .advantages_icon {
   display: block;
-  margin: 0 auto;
+  min-height: 65px;
+  text-align: center;
 }
 
 .advantages_icon img {
